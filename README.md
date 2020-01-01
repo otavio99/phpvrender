@@ -1,2 +1,2 @@
 # phpvrender
-A php class for mounting views
+Uma classe em php que cria views, inspirada em phpProjBasic.
